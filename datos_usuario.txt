@@ -1,1 +1,2 @@
 Usuario=vagrant
+CPU Model: AMD 4700S 8-Core Processor Desktop Kit
